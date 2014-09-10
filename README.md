@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+I am Ben, and I want to code games.
